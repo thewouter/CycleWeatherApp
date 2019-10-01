@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=99:F1:2E:6E:DE:F0:AD:40:45:CD:C0:22:A8:40:20:D0:79:2E:79:FA%3Bnl.wouter.cycleweatherapp
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    99:F1:2E:6E:DE:F0:AD:40:45:CD:C0:22:A8:40:20:D0:79:2E:79:FA
+
+    SHA-1 certificate fingerprint:
+    99:F1:2E:6E:DE:F0:AD:40:45:CD:C0:22:A8:40:20:D0:79:2E:79:FA
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" translatable="false" templateMergeStrategy="preserve">YOUR_KEY_HERE</string>
+</resources>

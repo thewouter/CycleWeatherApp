@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CycleWeatherApp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="start_location">Start</string>
+    <string name="select">selecteer</string>
+    <string name="end_location">Eind</string>
+</resources>
